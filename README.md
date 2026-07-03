@@ -8,9 +8,9 @@ Click on any file below to view the script and my detailed notes for that topic.
 
  [Day 20: Functions](<./python day 20.py>)
  [Day 21: Function Arguments](<./python day 21.py>)
- [Day 22: Intro to Lists](<./python day22.py>)
+ [Day 22: Intro to Lists](<./python day 22.py>)
  [Day 23: List Methods](<./python day 23.py>)
- [Day 24: Intro to Tuples](<./python day24.py>)
+ [Day 24: Intro to Tuples](<./python day 24.py>)
 
 I will continue updating this list daily as I progress toward Day 100!
 
