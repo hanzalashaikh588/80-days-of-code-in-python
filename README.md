@@ -2,7 +2,7 @@
 
 This repository is a daily log of my journey mastering Pythons built-ins, data structures, and fundamental logic. 
 
-Click on any file below to view the script and my detailed notes for that topic.
+Click on any file below to view the script and my notes for that topic.
 
  📅 Daily Syntax Index
 
