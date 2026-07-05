@@ -12,6 +12,8 @@ Click on any file below to view the script and my notes for that topic.
  [Day 23: List Methods](<./python day 23.py>)
  [Day 24: Intro to Tuples](<./python day 24.py>)
  [Day 25: Operations on tuples](<./python day 25.py>)
+ [Day 26: greet based on time program](<./python day 26.py>)
+ [Day 27: who wants to be a millionaire game program(simple version)](<./python day 27.py>)
 
 I will continue updating this list daily as I progress toward Day 100!
 
