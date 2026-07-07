@@ -15,6 +15,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 26: greet based on time program](<./python day 26.py>)
  [Day 27: who wants to be a millionaire game program(simple version)](<./python day 27.py>)
  [Day 28: f strings](<./python day 28.py>)
+ [Day 29: doc strings](<./python day 29.py>)
 
 I will continue updating this list daily as I progress toward Day 100!
 
