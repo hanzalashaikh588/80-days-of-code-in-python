@@ -18,6 +18,8 @@ Click on any file below to view the script and my notes for that topic.
  [Day 29: doc strings](<./python day 29.py>)
  [Day 30: Recursion in python](<./python day 30.py>)
  [Day 31: intro to sets sets](<./python day 31.py>)
+ [Day 32: methods of sets ](<./python day 32.py>)
+ 
  
 
 I will continue updating this list daily as I progress toward Day 100!
