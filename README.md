@@ -22,6 +22,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 33: intro to dict ](<./python day 33.py>)
  [Day 34: methods of dict ](<./python day 34.py>)
  [Day 35: for loop with else ](<./python day 35.py>)
+ [Day 36: exception handling ](<./python day 36.py>)
 
 
 I will continue updating this list daily as I progress toward Day 100!
