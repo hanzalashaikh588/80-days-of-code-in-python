@@ -25,6 +25,8 @@ Click on any file below to view the script and my notes for that topic.
  [Day 36: exception handling ](<./python day 36.py>)
  [Day 37: finally keyword ](<./python day 37.py>)
  [Day 38: raising custom errors ](<./python day 38.py>)
+ [Day 39: program secret language ](<./python day 39.py>)
+ [Day 40: shorthand if else statements ](<./python day 40.py>)
 
 
 
