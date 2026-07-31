@@ -27,6 +27,8 @@ Click on any file below to view the script and my notes for that topic.
  [Day 38: raising custom errors ](<./python day 38.py>)
  [Day 39: program secret language ](<./python day 39.py>)
  [Day 40: shorthand if else statements ](<./python day 40.py>)
+ [Day 41:enumerate function in python ](<./python day 41.py>)
+ [Day 42: virtual environment in python ](<./python day 42.py>)
 
 
 
