@@ -29,6 +29,11 @@ Click on any file below to view the script and my notes for that topic.
  [Day 40: shorthand if else statements ](<./python day 40.py>)
  [Day 41:enumerate function in python ](<./python day 41.py>)
  [Day 42: virtual environment in python ](<./python day 42.py>)
+ [Day 43: import in python ](<./python day 43.py>)
+ [Day 44: virtual environment in python ](<./python day 44.py>)
+ [Day 45: virtual environment in python ](<./python day 45.py>)
+ [Day 46: virtual environment in python ](<./python day 46.py>)
+ [Day 47: virtual environment in python ](<./python day 47.py>)
 
 
 
