@@ -33,7 +33,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 44:--name--=="--main--" ](<./python day 44.py>)
  [Day 45: virtual environment in python ](<./python day 45.py>)
  [Day 46: secret language encoder\decoder ](<./python day 46.py>)
- [Day 47:  ](<./python day 47.py>)
+ [Day 47:local vs global variables  ](<./python day 47.py>)
 
 
 
