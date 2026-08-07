@@ -34,8 +34,8 @@ Click on any file below to view the script and my notes for that topic.
  [Day 45: virtual environment in python ](<./python day 45.py>)
  [Day 46: secret language encoder\decoder ](<./python day 46.py>)
  [Day 47:local vs global variables  ](<./python day 47.py>)
-
-
+ [Day 48:file io in python ](<./python day 48.py>)
+ [Day 49:file io methods in python  ](<./python day 49.py>)
 
 I will continue updating this list daily as I progress toward Day 100!
 
