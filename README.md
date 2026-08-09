@@ -36,6 +36,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 47:local vs global variables  ](<./python day 47.py>)
  [Day 48:file io in python ](<./python day 48.py>)
  [Day 49:file io methods in python  ](<./python day 49.py>)
+ [Day 50:seek(),tell() and other functions in python  ](<./python day 50.py>)
 
 I will continue updating this list daily as I progress toward Day 100!
 
