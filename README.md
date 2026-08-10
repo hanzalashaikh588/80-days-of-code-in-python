@@ -37,7 +37,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 48:file io in python ](<./python day 48.py>)
  [Day 49:file io methods in python  ](<./python day 49.py>)
  [Day 50:seek(),tell() and other functions in python  ](<./python day 50.py>)
- [Day 51:  ](<./python day 51.py>)
+ [Day 51:lambda functions in python ](<./python day 51.py>)
  [Day 52:  ](<./python day 52.py>)
  [Day 53:  ](<./python day 53.py>)
  [Day 54:  ](<./python day 54.py>)
