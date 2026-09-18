@@ -40,7 +40,7 @@ Click on any file below to view the script and my notes for that topic.
  [Day 51:lambda functions in python ](<./python day 51.py>)
  [Day 52:map,filter,reduce  ](<./python day 52.py>)
  [Day 53:is vs "==" ](<./python day 53.py>)
- [Day 54:  ](<./python day 54.py>)
+ [Day 54:rock paper scissors game  ](<./python day 54.py>)
  [Day 55:  ](<./python day 55.py>)
  [Day 56:  ](<./python day 56.py>)
  [Day 57:  ](<./python day 57.py>)
