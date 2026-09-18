@@ -1,5 +1,4 @@
-#rock paper scissors game.
-#Rock-Paper, Paper-Rock, Rock-Scissors, Scissors-Rock, Paper-Scissors, Scissors-Paper.
+#rock paper scissors game
 def function_game():
     import random
     choices = ["rock", "paper" , "scissors"]
