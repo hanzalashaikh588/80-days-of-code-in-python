@@ -1,28 +1,27 @@
-#rock paper scissors game
+# rock paper scissors game
 def function_game():
     import random
-    choices = ["rock", "paper" , "scissors"]
+
+    choices = ["rock", "paper", "scissors"]
     print("welcome to rps game!")
     play = input("do you wish to play?(Yes/No) : ").capitalize()
-    if (play == "Yes"):
+    if play == "Yes":
         player_choice = input("choose between rock , paper and scissors : ").lower()
-        python_choice = random.choice(["paper","rock","scissors"])
+        python_choice = random.choice(["paper", "rock", "scissors"])
         print(f"python chose {python_choice}")
     else:
         print("goodbye")
         return
 
-    beats = {
-        "rock":"scissors",
-        "paper": "rock",
-        "scissors":"paper"
-    }
+    beats = {"rock": "scissors", "paper": "rock", "scissors": "paper"}
 
-    if (player_choice == python_choice):
-            print("Draw")
+    if player_choice == python_choice:
+        print("Draw")
     elif beats[player_choice] == python_choice:
         print("You Win!")
     else:
         print("You Lose")
     return
+
+
 function_game()

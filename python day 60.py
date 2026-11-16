@@ -7,6 +7,7 @@ class Employee:
     def showdetails(self):
         print(f"The name of the employee is: {self.name} and his id is: {self.id}")
 
+
 class programmer(Employee):
     def showlanguage(self):
         print("The preferred language is python")
@@ -18,14 +19,16 @@ a2 = programmer("harry", 9988)
 a2.showdetails()
 a2.showlanguage()
 
-#example
+
+# example
 class student:
-    def __init__(self,name,grade):
+    def __init__(self, name, grade):
         self.name = name
         self.grade = grade
 
     def Sgrades(self):
         print(f"The grade of student {self.name} is {self.grade} in physics")
+
 
 class subject(student):
     def showsubject(self):
@@ -44,5 +47,3 @@ s3.showsubject()
 s4 = subject("aslam", "C+")
 s4.Sgrades()
 s4.showsubject()
-
-

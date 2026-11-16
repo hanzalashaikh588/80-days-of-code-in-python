@@ -2,7 +2,9 @@
 import random
 import string
 
-print("type encode to create your sentence, decode to decode a message, or quit to exit")
+print(
+    "type encode to create your sentence, decode to decode a message, or quit to exit"
+)
 usr0 = input("enter your choice: ").strip().lower()
 
 if usr0 == "quit":
@@ -10,7 +12,9 @@ if usr0 == "quit":
     quit()
 
 if usr0 not in {"encode", "decode"}:
-    print("Invalid choice. Please run the program again and type encode, decode, or quit.")
+    print(
+        "Invalid choice. Please run the program again and type encode, decode, or quit."
+    )
     quit()
 
 sent = input("enter your message: ").strip()
@@ -48,6 +52,7 @@ def decode_secret_language(words):
         else:
             nwords.append(word)
     return " ".join(nwords)
+
 
 if usr0 == "encode":
     result = encode_secret_language(words)
