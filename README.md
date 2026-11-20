@@ -1,95 +1,106 @@
- 🐍 Python Core Concepts & Syntax Reference
+# 🐍 80 Days of Python
 
-This repository is a daily log of my journey mastering Pythons built-ins, data structures, and fundamental logic. 
+A daily learning log documenting my journey through Python fundamentals, built-in functions, data structures, and core programming concepts.
 
-Click on any file below to view the script and my notes for that topic.
+## 📚 Topics Covered
 
- 📅 Daily Syntax Index
+### Days 20–39: Core Python Concepts
 
- [Day 20: Functions](<./python day 20.py>)
- [Day 21: Function Arguments](<./python day 21.py>)
- [Day 22: Intro to Lists](<./python day 22.py>)
- [Day 23: List Methods](<./python day 23.py>)
- [Day 24: Intro to Tuples](<./python day 24.py>)
- [Day 25: Operations on tuples](<./python day 25.py>)
- [Day 26: greet based on time program](<./python day 26.py>)
- [Day 27: who wants to be a millionaire game program(simple version)](<./python day 27.py>)
- [Day 28: f strings](<./python day 28.py>)
- [Day 29: doc strings](<./python day 29.py>)
- [Day 30: Recursion in python](<./python day 30.py>)
- [Day 31: intro to sets sets](<./python day 31.py>)
- [Day 32: methods of sets ](<./python day 32.py>)
- [Day 33: intro to dict ](<./python day 33.py>)
- [Day 34: methods of dict ](<./python day 34.py>)
- [Day 35: for loop with else ](<./python day 35.py>)
- [Day 36: exception handling ](<./python day 36.py>)
- [Day 37: finally keyword ](<./python day 37.py>)
- [Day 38: raising custom errors ](<./python day 38.py>)
- [Day 39: program secret language ](<./python day 39.py>)
- [Day 40: shorthand if else statements ](<./python day 40.py>)
- [Day 41:enumerate function in python ](<./python day 41.py>)
- [Day 42: virtual environment in python ](<./python day 42.py>)
- [Day 43: import in python ](<./python day 43.py>)
- [Day 44:--name--=="--main--" ](<./python day 44.py>)
- [Day 45: virtual environment in python ](<./python day 45.py>)
- [Day 46: secret language encoder\decoder ](<./python day 46.py>)
- [Day 47:local vs global variables  ](<./python day 47.py>)
- [Day 48:file io in python ](<./python day 48.py>)
- [Day 49:file io methods in python  ](<./python day 49.py>)
- [Day 50:seek(),tell() and other functions in python  ](<./python day 50.py>)
- [Day 51:lambda functions in python ](<./python day 51.py>)
- [Day 52:map,filter,reduce  ](<./python day 52.py>)
- [Day 53:is vs "==" ](<./python day 53.py>)
- [Day 54:rock paper scissors game  ](<./python day 54.py>)
- [Day 55:oops in python ](<./python day 55.py>)
- [Day 56:classes and objects  ](<./python day 56.py>)
- [Day 57:constructors in python  ](<./python day 57.py>)
- [Day 58:decorators in python  ](<./python day 58.py>)
- [Day 59:getters and setters  ](<./python day 59.py>)
- [Day 60:inheritance in python  ](<./python day 60.py>)
- [Day 61:access modifiers in python ](<./python day 61.py>)
- [Day 62:excercise 6 :library management system  ](<./python day 62.py>)
- [Day 63:static methods in python  ](<./python day 63.py>)
- [Day 64:instance vs class variables  ](<./python day 64.py>)
- [Day 65:file reorganizer program  ](<./python day 65.py>)
- [Day 66:class methods in python  ](<./python day 66.py>)
- [Day 67:  ](<./python day 67.py>)
- [Day 68:  ](<./python day 68.py>)
- [Day 69:  ](<./python day 69.py>)
- [Day 70:  ](<./python day 70.py>)
- [Day 71:  ](<./python day 71.py>)
- [Day 72:  ](<./python day 72.py>)
- [Day 73:  ](<./python day 73.py>)
- [Day 74:  ](<./python day 74.py>)
- [Day 75:  ](<./python day 75.py>)
- [Day 76:  ](<./python day 76.py>)
- [Day 77:  ](<./python day 77.py>)
- [Day 78:  ](<./python day 78.py>)
- [Day 79:  ](<./python day 79.py>)
- [Day 80:  ](<./python day 80.py>)
- [Day 81:  ](<./python day 81.py>)
- [Day 82:  ](<./python day 82.py>)
- [Day 83:  ](<./python day 83.py>)
- [Day 84:  ](<./python day 84.py>)
- [Day 85:  ](<./python day 85.py>)
- [Day 86:  ](<./python day 86.py>)
- [Day 87:  ](<./python day 87.py>)
- [Day 88:  ](<./python day 88.py>)
- [Day 89:  ](<./python day 89.py>)
- [Day 90:  ](<./python day 90.py>)
- [Day 91:  ](<./python day 91.py>)
- [Day 92:  ](<./python day 92.py>)
- [Day 93:  ](<./python day 93.py>)
- [Day 94:  ](<./python day 94.py>)
- [Day 95:  ](<./python day 95.py>)
- [Day 96:  ](<./python day 96.py>)
- [Day 97:  ](<./python day 97.py>)
- [Day 98:  ](<./python day 98.py>)
- [Day 99:  ](<./python day 99.py>)
- [Day 100: ](<./python day 100.py>)
-I will continue updating this list daily as I progress toward Day 100!
+| Day | Topic |
+|---:|---|
+| 20 | [Functions](./python%20day%2020.py) |
+| 21 | [Function Arguments](./python%20day%2021.py) |
+| 22 | [Introduction to Lists](./python%20day%2022.py) |
+| 23 | [List Methods](./python%20day%2023.py) |
+| 24 | [Introduction to Tuples](./python%20day%2024.py) |
+| 25 | [Tuple Operations](./python%20day%2025.py) |
+| 26 | [Greeting Based on Time](./python%20day%2026.py) |
+| 27 | [Who Wants to Be a Millionaire — Simple Version](./python%20day%2027.py) |
+| 28 | [F-Strings](./python%20day%2028.py) |
+| 29 | [Docstrings](./python%20day%2029.py) |
+| 30 | [Recursion](./python%20day%2030.py) |
+| 31 | [Introduction to Sets](./python%20day%2031.py) |
+| 32 | [Set Methods](./python%20day%2032.py) |
+| 33 | [Introduction to Dictionaries](./python%20day%2033.py) |
+| 34 | [Dictionary Methods](./python%20day%2034.py) |
+| 35 | [For Loop with Else](./python%20day%2035.py) |
+| 36 | [Exception Handling](./python%20day%2036.py) |
+| 37 | [The `finally` Keyword](./python%20day%2037.py) |
+| 38 | [Raising Custom Errors](./python%20day%2038.py) |
+| 39 | [Secret Language Program](./python%20day%2039.py) |
 
- How to Run a Snippet
-You can run any of these files directly in your terminal to see the code execution in action:
+### Days 40–66: Intermediate Python Concepts
+
+| Day | Topic |
+|---:|---|
+| 40 | [Shorthand If-Else Statements](./python%20day%2040.py) |
+| 41 | [Enumerate Function](./python%20day%2041.py) |
+| 42 | [Virtual Environment](./python%20day%2042.py) |
+| 43 | [Python Imports](./python%20day%2043.py) |
+| 44 | [The `__name__ == "__main__"` Pattern](./python%20day%2044.py) |
+| 45 | [Virtual Environment](./python%20day%2045.py) |
+| 46 | [Secret Language Encoder and Decoder](./python%20day%2046.py) |
+| 47 | [Local vs. Global Variables](./python%20day%2047.py) |
+| 48 | [File I/O](./python%20day%2048.py) |
+| 49 | [File I/O Methods](./python%20day%2049.py) |
+| 50 | [`seek()`, `tell()`, and Related Functions](./python%20day%2050.py) |
+| 51 | [Lambda Functions](./python%20day%2051.py) |
+| 52 | [`map()`, `filter()`, and `reduce()`](./python%20day%2052.py) |
+| 53 | [`is` vs `==`](./python%20day%2053.py) |
+| 54 | [Rock-Paper-Scissors Game](./python%20day%2054.py) |
+| 55 | [Introduction to Object-Oriented Programming](./python%20day%2055.py) |
+| 56 | [Classes and Objects](./python%20day%2056.py) |
+| 57 | [Constructors](./python%20day%2057.py) |
+| 58 | [Decorators](./python%20day%2058.py) |
+| 59 | [Getters and Setters](./python%20day%2059.py) |
+| 60 | [Inheritance](./python%20day%2060.py) |
+| 61 | [Access Modifiers](./python%20day%2061.py) |
+| 62 | [Exercise: Library Management System](./python%20day%2062.py) |
+| 63 | [Static Methods](./python%20day%2063.py) |
+| 64 | [Instance vs. Class Variables](./python%20day%2064.py) |
+| 65 | [File Reorganizer Program](./python%20day%2065.py) |
+| 66 | [Class Methods](./python%20day%2066.py) |
+
+### Days 67–100: In Progress
+
+> Remaining topics will be added as I continue the challenge.
+
+| Day | Progress |
+|---:|---|
+| 67 | [View file](./python%20day%2067.py) |
+| 68 | [View file](./python%20day%2068.py) |
+| 69 | [View file](./python%20day%2069.py) |
+| 70 | [View file](./python%20day%2070.py) |
+| 71 | [View file](./python%20day%2071.py) |
+| 72 | [View file](./python%20day%2072.py) |
+| 73 | [View file](./python%20day%2073.py) |
+| 74 | [View file](./python%20day%2074.py) |
+| 75 | [View file](./python%20day%2075.py) |
+| 76 | [View file](./python%20day%2076.py) |
+| 77 | [View file](./python%20day%2077.py) |
+| 78 | [View file](./python%20day%2078.py) |
+| 79 | [View file](./python%20day%2079.py) |
+| 80 | [View file](./python%20day%2080.py) |
+| 81 | [View file](./python%20day%2081.py) |
+| 82 | [View file](./python%20day%2082.py) |
+| 83 | [View file](./python%20day%2083.py) |
+| 84 | [View file](./python%20day%2084.py) |
+| 85 | [View file](./python%20day%2085.py) |
+| 86 | [View file](./python%20day%2086.py) |
+| 87 | [View file](./python%20day%2087.py) |
+| 88 | [View file](./python%20day%2088.py) |
+| 89 | [View file](./python%20day%2089.py) |
+| 90 | [View file](./python%20day%2090.py) |
+| 91 | [View file](./python%20day%2091.py) |
+| 92 | [View file](./python%20day%2092.py) |
+| 93 | [View file](./python%20day%2093.py) |
+| 94 | [View file](./python%20day%2094.py) |
+| 95 | [View file](./python%20day%2095.py) |
+| 96 | [View file](./python%20day%2096.py) |
+| 97 | [View file](./python%20day%2097.py) |
+| 98 | [View file](./python%20day%2098.py) |
+| 99 | [View file](./python%20day%2099.py) |
+| 100 | [View file](./python%20day%20100.py) |
+
 ```bash
-python "python day20.py"
+python "python day 20.py"
